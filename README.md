@@ -5,7 +5,10 @@ This Script Was Made Using Python You Can Use This Script For Prank Purposes Or 
 I AM NOT RESPONSIBLE ANY MISUSE THIS IS JUST FOR EDUCATIONAL PURPOSES.
 
 Another Way Of Using It For Prank:
-You Add This File On Their Windows Startup
+
+You can Add This File On Their Windows Startup
+
 To Do This Press win+R & Write shell:startup and copy and paste the file.
+
 voila your'e done.......
 
